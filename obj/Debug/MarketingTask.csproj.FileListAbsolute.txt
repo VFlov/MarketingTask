@@ -1,0 +1,12 @@
+C:\Users\VSP\source\repos\MarketingTask\bin\Debug\MarketingTask.exe.config
+C:\Users\VSP\source\repos\MarketingTask\bin\Debug\MarketingTask.exe
+C:\Users\VSP\source\repos\MarketingTask\bin\Debug\MarketingTask.pdb
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.csproj.AssemblyReference.cache
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.Form1.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.Properties.Resources.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.csproj.GenerateResource.cache
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.csproj.CoreCompileInputs.cache
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.exe
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.pdb
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.GK.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.HK.resources
