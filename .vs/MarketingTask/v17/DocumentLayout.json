@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|c:\\users\\vsp\\source\\repos\\marketingtask\\zink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:zink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|c:\\users\\vsp\\source\\repos\\marketingtask\\zink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:zink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|C:\\Users\\VSP\\source\\repos\\MarketingTask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|c:\\users\\vsp\\source\\repos\\marketingtask\\hk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|C:\\Users\\VSP\\source\\repos\\MarketingTask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|C:\\Users\\VSP\\source\\repos\\MarketingTask\\iron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:iron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|C:\\Users\\VSP\\source\\repos\\MarketingTask\\hk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:hk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|C:\\Users\\VSP\\source\\repos\\MarketingTask\\gk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:gk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|C:\\Users\\VSP\\source\\repos\\MarketingTask\\hk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:hk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|c:\\users\\vsp\\source\\repos\\marketingtask\\iron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:iron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|C:\\Users\\VSP\\source\\repos\\MarketingTask\\gk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:gk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|C:\\Users\\VSP\\source\\repos\\MarketingTask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7F91D4-B5F9-4EF8-B0BD-71A9115F1B7F}|MarketingTask.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,48 +42,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HK.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\HK.cs",
-              "RelativeDocumentMoniker": "HK.cs",
-              "ToolTip": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\HK.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "HK.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 1,
+              "Title": "Zink.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Zink.cs",
+              "RelativeDocumentMoniker": "Zink.cs",
+              "ToolTip": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Zink.cs",
+              "RelativeToolTip": "Zink.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T15:01:29.673Z",
+              "WhenOpened": "2024-05-19T09:05:52.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zink.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Zink.cs",
+              "RelativeDocumentMoniker": "Zink.cs",
+              "ToolTip": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Zink.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Zink.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:05:32.904Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Iron.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Iron.cs",
+              "RelativeDocumentMoniker": "Iron.cs",
+              "ToolTip": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Iron.cs",
+              "RelativeToolTip": "Iron.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:20:07.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Iron.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Iron.cs",
+              "RelativeDocumentMoniker": "Iron.cs",
+              "ToolTip": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Iron.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Iron.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:19:59.454Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "HK.cs",
               "DocumentMoniker": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\HK.cs",
               "RelativeDocumentMoniker": "HK.cs",
               "ToolTip": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\HK.cs",
               "RelativeToolTip": "HK.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAYwFcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T15:00:51.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GK.cs",
-              "DocumentMoniker": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\GK.cs",
-              "RelativeDocumentMoniker": "GK.cs",
-              "ToolTip": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\GK.cs",
-              "RelativeToolTip": "GK.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAuwFcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T10:59:00.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "GK.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\GK.cs",
               "RelativeDocumentMoniker": "GK.cs",
@@ -86,20 +120,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowDcAAAASAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAA5wD8AAAADAQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T10:18:08.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\VSP\\source\\repos\\MarketingTask\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

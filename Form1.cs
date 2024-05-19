@@ -56,6 +56,16 @@ namespace MarketingTask
                 hk.ShowDialog();
 
             }
+            if (radioButton7.Checked || radioButton14.Checked || radioButton21.Checked || radioButton28.Checked || radioButton35.Checked)
+            {
+                Iron iron = new Iron();
+                iron.ShowDialog();
+            }
+            if (radioButton6.Checked || radioButton13.Checked || radioButton20.Checked || radioButton27.Checked || radioButton34.Checked || radioButton5.Checked || radioButton12.Checked | radioButton19.Checked || radioButton26.Checked || radioButton33.Checked)
+            {
+                Zink zink = new Zink();
+                zink.ShowDialog();
+            }
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

@@ -1,0 +1,14 @@
+C:\Users\VSP\source\repos\MarketingTask\bin\Release\MarketingTask.exe.config
+C:\Users\VSP\source\repos\MarketingTask\bin\Release\MarketingTask.exe
+C:\Users\VSP\source\repos\MarketingTask\bin\Release\MarketingTask.pdb
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.csproj.AssemblyReference.cache
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.Form1.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.Zink.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.Iron.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.HK.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.GK.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.Properties.Resources.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.csproj.GenerateResource.cache
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.csproj.CoreCompileInputs.cache
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.exe
+C:\Users\VSP\source\repos\MarketingTask\obj\Release\MarketingTask.pdb

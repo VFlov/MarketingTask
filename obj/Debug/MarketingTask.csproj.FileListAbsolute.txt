@@ -10,3 +10,5 @@ C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.exe
 C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.pdb
 C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.GK.resources
 C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.HK.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.Iron.resources
+C:\Users\VSP\source\repos\MarketingTask\obj\Debug\MarketingTask.Zink.resources
